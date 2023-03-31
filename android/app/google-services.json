@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "777154378122",
+    "project_id": "notifee-cebcc",
+    "storage_bucket": "notifee-cebcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777154378122:android:5642a46fd6737d5f8df073",
+        "android_client_info": {
+          "package_name": "com.nofifee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777154378122-apma6h3crujt3vsh049v0bsudaab29l3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nofifee",
+            "certificate_hash": "7959f0175c9befb622ec1c3ce1044ffd7816ef0c"
+          }
+        },
+        {
+          "client_id": "777154378122-mvrda0lvmkbhs7ni2tlpm642ptejgvag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8SWvXsG3P7LSup928TttDh159DhVLhn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777154378122-mvrda0lvmkbhs7ni2tlpm642ptejgvag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
